@@ -1,0 +1,19 @@
+{
+  "name": "pucu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "cucumber": "cucumber-js"
+  },
+  "author": "DChuev",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "cucumber": "^6.0.7",
+    "jest": "^28.1.2",
+    "jest-puppeteer": "^6.1.0",
+    "puppeteer": "^15.2.0"
+  }
+}
